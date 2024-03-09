@@ -14,6 +14,7 @@ I'm under the impression that any (correctly pinned) 3.7V lithium ion batteries 
 simplified diagram of how it's hooked up:
 ![image](https://github.com/zoroseerus/g305lithiummodkit/assets/68509716/34ed35d9-cfb4-42b8-bb77-698c1e646402)
 
-used in a mouse:
+used in a mice:
 ![IMG_1594](https://github.com/zoroseerus/g305lithiummodkit/assets/68509716/91fa3316-782e-44b6-a921-f9f2426644eb)
 ![IMG_1704](https://github.com/zoroseerus/g305lithiummodkit/assets/68509716/1ffb0298-84f5-4e74-9df4-a4a8de54491b)
+![IMG_1834](https://github.com/zoroseerus/g305lithiummodkit/assets/68509716/daf2f4a1-e5d1-4a5c-a02a-e8b3240e573b)
