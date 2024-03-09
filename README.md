@@ -11,5 +11,9 @@ I'm uploading the files on here as I was given them, as I'm pretty unfamiliar wi
 
 I'm under the impression that any (correctly pinned) 3.7V lithium ion batteries should work with it. my example photos are with a 150mAh one as it's a decent size while not being particularly massive, but you can go smaller or larger as desired I believe.
 
-simplified diagram of how it's hooked up
+simplified diagram of how it's hooked up:
 ![image](https://github.com/zoroseerus/g305lithiummodkit/assets/68509716/34ed35d9-cfb4-42b8-bb77-698c1e646402)
+
+used in a mouse:
+![IMG_1594](https://github.com/zoroseerus/g305lithiummodkit/assets/68509716/91fa3316-782e-44b6-a921-f9f2426644eb)
+![IMG_1704](https://github.com/zoroseerus/g305lithiummodkit/assets/68509716/1ffb0298-84f5-4e74-9df4-a4a8de54491b)
