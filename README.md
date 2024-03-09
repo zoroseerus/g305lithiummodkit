@@ -9,5 +9,7 @@ If you're just interested in buying the modkits, I'll be selling those on etsy (
 
 I'm uploading the files on here as I was given them, as I'm pretty unfamiliar with PCB design and github such. If there's a signiciantly better way to group them or such feel free to let me know and I can re-arrange things as needed.
 
+I'm under the impression that any (correctly pinned) 3.7V lithium ion batteries should work with it. my example photos are with a 150mAh one as it's a decent size while not being particularly massive, but you can go smaller or larger as desired I believe.
+
 simplified diagram of how it's hooked up
 ![image](https://github.com/zoroseerus/g305lithiummodkit/assets/68509716/34ed35d9-cfb4-42b8-bb77-698c1e646402)
