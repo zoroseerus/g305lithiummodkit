@@ -1,6 +1,6 @@
 [Google Docs Link](https://docs.google.com/document/d/1lXlm5Rkuk57U9H8ZfG8ebI7v9hPCBv__bzJ77-HJGrs/edit?usp=sharing)
 
-Here’s how I went about ordering PCBs off of JLPCB for the modkit. You may be able to change settings on it to save money or produce a better PCB, I’m wholly inexperienced in this aspect and am happy to receive any feedback on doing so.
+Here’s how I went about ordering PCBs off of JLCPCB for the modkit. You may be able to change settings on it to save money or produce a better PCB, I’m wholly inexperienced in this aspect and am happy to receive any feedback on doing so.
 
 
 ![image (1)](https://github.com/zoroseerus/g305lithiummodkit/assets/68509716/93054268-d575-4f9a-bfab-697a7447613f)
